@@ -23,10 +23,12 @@ Here are 10 I have learned a lot from and *recommend*:
 
 - Javascript for **Beginners** (Mark Lassoff 2013):
 http://www.amazon.com/Javascript-Beginners-Mr-Mark-Lassoff/dp/0988842955/
+
 ![Javascript for Beginners](http://ecx.images-amazon.com/images/I/51%2B0LwpmLqL._SY344_PJlook-inside-v2,TopRight,1,0_SH20_BO1,204,203,200_.jpg "Javascript for Beginners")
 
 - JavaScript **The Good Parts** (Douglas Crockford 2008): 
 http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/
+
 ![JavaScript: The Good Parts](http://ecx.images-amazon.com/images/I/51gdVAEfPUL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg "JavaScript: The Good Parts")
 
 
