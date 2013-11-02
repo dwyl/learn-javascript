@@ -112,4 +112,7 @@ Interactive Online Tutorials** ...?
 
 ## Option 2 
 
->> **coming soon** ... :-)
+![Coming Soon Sign](http://windsorpolicepipeband.com/wp-content/uploads/coming-soon-300x300.jpg "comming soon")
+
+>> If this sounds like something that would be useful to you or your team,
+Get in touch and let me know! - http://www.linkedin.com/in/nelsonic
