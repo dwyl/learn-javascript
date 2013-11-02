@@ -45,7 +45,7 @@ Once you have learned basics you need to focus on "**The Good Parts**":
 - JavaScript **The Good Parts** (Douglas Crockford 2008 - **147** pages): 
 http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/
 
-![JavaScript: The Good Parts](http://ecx.images-amazon.com/images/I/51gdVAEfPUL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg "JavaScript: The Good Parts")
+![JavaScript: The Good Parts](http://it-ebooks.info/images/ebooks/3/javascript_the_good_parts.jpg "JavaScript: The Good Parts")
 
 Once you have *mastered* the **Good Parts**, begin to *hone* your **craft**
 by learning the correct "**Patterns**" for writing efficient code:
@@ -63,22 +63,41 @@ http://www.amazon.com/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/
 Now that you know the language *patterns* 
 its time for **Test Driven Development** (TDD):
 
-- **Test-Driven** JavaScript Development (Christian Johansen, 2010):
-http://www.amazon.com//dp/0321683919/  
+- **Test-Driven** JavaScript Development (Christian Johansen, 2010 - **600** pages):
+http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919/
 
-- **Testable** JavaScript (Mark Ethan Trostler 2013): 
-http://www.amazon.com/dp/1449323391/
+![Test-Driven JavaScript Development](http://it-ebooks.info/images/ebooks/10/test-driven_javascript_development.jpg "Test-Driven JavaScript Development")
 
-And/or **Behaviour-Driven Development** (BDD):
+- **Testable** JavaScript (Mark Ethan Trostler 2013 - **274** pages): 
+http://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler/dp/1449323391/
 
-- JavaScript Testing with **Jasmine**: JavaScript Behavior-Driven Development
-(Evan Hahn 2013): www.amazon.com/dp/1449356370/
+![Testable JavaScript](http://it-ebooks.info/images/ebooks/3/testable_javascript.jpg "Testable JavaScript")
+
+And if you plan on working in a **team** of more than **one** person, 
+you will need to ensure your code is **maintainable**:
+
+- Maintainable JavaScript (Nicholas C. Zakas 2010 - **242** pages):
+http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/
+
+![Maintainable JavaScript](http://it-ebooks.info/images/ebooks/3/maintainable_javascript.jpg "Maintainable JavaScript")
+
+Now you are getting quite good at but your JS code is still not *performing*
+like *Google*'s ...
+
+- **High Performance** JavaScript (Nicholas C. Zakas 2010 - **242** pages):
+http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/
+
+![High Performance JavaScript](http://it-ebooks.info/images/ebooks/3/high_performance_javascript.jpg "High Performance JavaScript")
+
+You're feeling pretty *confident* in your JS skills you want to take it to
+"**Ninja**" Level:
+
+- Secrets of the JavaScript Ninja (John Resig 2012 - **392** pages):
+http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/
+
+![Secrets of the JavaScript Ninja](http://it-ebooks.info/images/ebooks/5/secrets_of_the_javascript_ninja.jpg "Secrets of the JavaScript Ninja")
 
 
-Time to Optimize your JavaScript? (Or looking for some simple wins?)
-
-- **High Performance** JavaScript (Nicholas C. Zakas 2010):
-http://www.amazon.com/dp/059680279X/
 
 
 ## Option 2 ... :-)
