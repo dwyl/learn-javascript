@@ -2,7 +2,7 @@ learn-javascript
 ================
 
 Learning JavaScript is no longer *optional* for people that want to build
-amazing websites, apps and experiences. But getting started can be daunting.
+amazing web sites, apps & experiences. But getting started can be daunting.
 A quick 
 [search for JavaScript](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=javascript) 
 on Amazon yields over *five thousand results*! Mercifully you do not have 
@@ -97,7 +97,19 @@ http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/
 
 ![Secrets of the JavaScript Ninja](http://it-ebooks.info/images/ebooks/5/secrets_of_the_javascript_ninja.jpg "Secrets of the JavaScript Ninja")
 
+**3303 pages**. If you read a page every 2 minutes 
+(bear in mind that this is *code* you need to *understand* because 
+later chapters build upon the knowledge so you *cannot skim-read* it...)  
+it would take **6600 Minutes** or **110 Hours**.
+You could do that in a couple of weeks, *right*...? ;-)
+No! Reading an hour a day it would take you **3.5 months** 
+(if you didn't skip any days)...
+
+What if someone condensed all that knowledge into a 
+**Simple Series of Step-by-Step
+Interactive Online Tutorials** ...?
 
 
+## Option 2 
 
-## Option 2 ... :-)
+>> **coming soon** ... :-)
