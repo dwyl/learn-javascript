@@ -24,7 +24,7 @@ Here are 10 I have learned a lot from and *recommend*:
 
 Since JavaScript does not operate in isolation in the Web Browser,
 you will need to have a bit of HTML & CSS knowledge to get started
-(the JavaScript chapter in this first book was outsourced so *skip* it!):
+(the JavaScript chapter in this first book was *outsourced* so **skip** it!):
 
 - Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and 
 Web Graphics (Jennifer Niederst Robbins 2012 - **624** pages)
@@ -116,3 +116,15 @@ Interactive Online Tutorials** ...?
 
 >> If this sounds like something that would be useful to you or your team,
 Get in touch and let me know! - http://www.linkedin.com/in/nelsonic
+
+The *Preface* of **JavaScript The Good Parts** (Crockford, 2008) 
+*explicitly* says: 
+
+> This is **not** a book **for beginners**.
+> This is **not** a book for **dummies**.
+
+[Douglas Crockford](http://en.wikipedia.org/wiki/Douglas_Crockford) 
+is the Grandfather of JavaScript. 
+He poineered using JS for web *application* development in the 90's,
+was the Cheif of JS @Yahoo and is now the "*architect*" @PayPal.
+Watch Crockford's Intro to JS: http://youtu.be/v2ifWcnQs6M
