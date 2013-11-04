@@ -1,6 +1,21 @@
 learn-javascript
 ================
 
+This post (book?) is a work-in-progess (labour of love) which I have been 
+planning for 5 years and have notes for in various paper/online notebooks.
+I decided to follow Addy Osmani's example and *write* this on GitHub.
+
+His book **Learning JavaScript Design Patterns** (see below) is shared
+on GitHub through Creative Commons license. 
+https://github.com/addyosmani/essential-js-design-patterns/blob/1.5.2/book/index.html
+http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+My efforst are realeased under the same license:
+[Creative Commons Attribution-Noncommercial-No Derivative Works 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/)
+i.e. you are welcome to read this for *free*, and make corrections,
+but don't try passing it off as your own work or selling it to others. 
+
+- - -
 Learning JavaScript is no longer *optional* for people that want to build
 amazing web sites, apps & experiences. But getting started can be daunting.
 A quick 
@@ -159,7 +174,8 @@ chapter towards the end of the book like
 
 > oh, and there's this thing called "*testing*" which you really should do...
 
-Meanwhile most books teach you a heap of **bad habits** 
+Meanwhile most books teach you a heap of **bad habits** which are very 
+difficult to correct later on. 
 
 
 
