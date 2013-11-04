@@ -37,19 +37,25 @@ With enough dedication, coding is something *anyone* can learn.
 
 Read a *shelf* of books to acquire the knowledge of *expert* developers.
 
-Here are 10 I have learned a lot from and *recommend*:
+Here are 11 I have learned a lot from and *recommend*:
 
 Since JavaScript does not operate in isolation in the Web Browser,
-you will need to have a bit of HTML & CSS knowledge to get started
-(the JavaScript chapter in this first book was *outsourced* because Jenifer
-is *not* a developer! It tries to make you *fly* before you can walk, 
-so **skip** it! Learn HTML/CSS from this book and then move on!):
+you will need to have some **Basic HTML & CSS** knowledge to get started:
 
-- Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and 
-Web Graphics (Jennifer Niederst Robbins 2012 - **624** pages)
-http://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1449319270/
+- Basics of Web Design: HTML5 and CSS3 (Terry Felke-Morris 
+2011 - **368** pages)
+http://www.amazon.com/Basics-Web-Design-HTML5-CSS3/dp/0137003382/
 
-![Learning Web Design, 4th Edition](http://it-ebooks.info/images/ebooks/3/learning_web_design_4th_edition.jpg "Learning Web Design, 4th Edition")
+![Basics of Web Design: HTML5 & CSS3](http://www-fp.pearsonhighered.com/coverimage/0133128911.jpg "Basics of Web Design: HTML5 & CSS3")
+
+After you know a bit of HTML & CSS 
+Keith & Sambells (2010) will give you a *gentle* and interesting introduction 
+to the Document Object Model (DOM) and how to use JavaScript in the browser:
+
+- DOM Scripting: Web Design with JavaScript and the Document Object Model (Jeremy Keith & Jeffrey Sambells 2010 - **336** pages)
+http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/
+
+![DOM Scripting](http://img2.imagesbn.com/p/9781430233893_p0_v2_s260x420.JPG "DOM Scripting")
 
 Once you have some foundational web development skills you can pick a book
 that is *focussed* on learning JavaScript with plenty of tutorials:
