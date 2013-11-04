@@ -8,10 +8,10 @@ A quick
 on Amazon yields over *five thousand results*! Mercifully you do not have 
 to be overwhelmed by the ocean of books/tutorials/videos!
 
-Unlike most of my colleagues I am not a (formally trained) Computer Scientist
+Unlike most of my colleagues I am not a (*formally* trained) Computer Scientist
 or "Software Engineer", I created my own curriculum and learned by doing.
 To a non-programmer it might look like I *bluffed* my way into getting paid
-to write code, but that could not be further from the truth. 
+to write code, but that could not be *further* from the truth. 
 With enough dedication, coding is something *anyone* can learn.
 
 # Where do I Start?!
@@ -24,7 +24,9 @@ Here are 10 I have learned a lot from and *recommend*:
 
 Since JavaScript does not operate in isolation in the Web Browser,
 you will need to have a bit of HTML & CSS knowledge to get started
-(the JavaScript chapter in this first book was *outsourced* so **skip** it!):
+(the JavaScript chapter in this first book was *outsourced* because Jenifer
+is *not* a developer! It tries to make you *fly* before you can walk, 
+so **skip** it! Learn HTML/CSS from this book and then move on!):
 
 - Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and 
 Web Graphics (Jennifer Niederst Robbins 2012 - **624** pages)
@@ -117,14 +119,58 @@ Interactive Online Tutorials** ...?
 >> If this sounds like something that would be useful to you or your team,
 Get in touch and let me know! - http://www.linkedin.com/in/nelsonic
 
+### Introduction
+
 The *Preface* of **JavaScript The Good Parts** (Crockford, 2008) 
 *explicitly* says: 
 
-> This is **not** a book **for beginners**.
+> This is **not** a book **for beginners** ...
 > This is **not** a book for **dummies**.
 
 [Douglas Crockford](http://en.wikipedia.org/wiki/Douglas_Crockford) 
 is the Grandfather of JavaScript. 
 He poineered using JS for web *application* development in the 90's,
 was the Cheif of JS @Yahoo and is now the "*architect*" @PayPal.
+While Crockford is an *authority* on JS he makes no 
+attempt to teach *beginners*. This is a tragegy which I intend to remedy.
+
 Watch Crockford's Intro to JS: http://youtu.be/v2ifWcnQs6M
+its a *fantastic* video if you already have programming *experience*,
+but for people *without* CS Degrees it uses *way* 
+**too many technical terms**.
+
+
+
+A few of Douglas Crockford's *best* videos:
+JavaScript: Your New Overload: http://youtu.be/Trurfqh_6fQ
+JavaScript: Really. JavaScript: http://youtu.be/lTWGoL1N-Kc
+
+
+### Basic Data Types
+
+
+### Functions
+
+### Test *First* Development
+
+One of my biggest gripes with *all* the "Beginners" JavaScript Books I've read
+is that they either don't cover testing *at all* or have an *afterthought* 
+chapter towards the end of the book like 
+
+> oh, and there's this thing called "*testing*" which you really should do...
+
+Meanwhile most books teach you a heap of **bad habits** 
+
+
+
+### Maintainable JavaScript
+
+http://youtu.be/c-kav7Tf834
+
+### Workflow
+
+Paul Irish (Google): http://youtu.be/bqfoYaKCYUI
+
+### REgular Expressions
+
+Good video by Lea Verou: http://youtu.be/EkluES9Rvak
