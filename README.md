@@ -140,7 +140,7 @@ Interactive Online Tutorials** ...?
 ![Coming Soon Sign](http://windsorpolicepipeband.com/wp-content/uploads/coming-soon-300x300.jpg "comming soon")
 
 >> If this sounds like something that would be useful to you or your team,
-Get in touch and let me know! - http://www.linkedin.com/in/nelsonic
+>> Get in touch and let me know! - http://www.linkedin.com/in/nelsonic
 
 ### Introduction
 
@@ -189,7 +189,8 @@ difficult to correct later on.
 
 ### Maintainable JavaScript
 
-http://youtu.be/c-kav7Tf834
+> *We spend* **most** *of our time* **maintaining** *code*. 
+> http://youtu.be/nZihjH6_Qns
 
 ### Workflow
 
@@ -198,3 +199,7 @@ Paul Irish (Google): http://youtu.be/bqfoYaKCYUI
 ### REgular Expressions
 
 Good video by Lea Verou: http://youtu.be/EkluES9Rvak
+
+## References / Bibliography
+
+- Best Way to Learn JS: http://net.tutsplus.com/tutorials/javascript-ajax/the-best-way-to-learn-javascript/
