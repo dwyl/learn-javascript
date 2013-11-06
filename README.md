@@ -165,8 +165,8 @@ but for people *without* CS Degrees it uses *way*
 
 
 A few of Douglas Crockford's *best* videos:
-JavaScript: Your New Overload: http://youtu.be/Trurfqh_6fQ
-JavaScript: Really. JavaScript: http://youtu.be/lTWGoL1N-Kc
+- JavaScript: Your New Overload: http://youtu.be/Trurfqh_6fQ
+- JavaScript: Really. JavaScript: http://youtu.be/lTWGoL1N-Kc
 
 
 ### Basic Data Types
@@ -203,3 +203,6 @@ Good video by Lea Verou: http://youtu.be/EkluES9Rvak
 ## References / Bibliography
 
 - Best Way to Learn JS: http://net.tutsplus.com/tutorials/javascript-ajax/the-best-way-to-learn-javascript/
+- http://stackoverflow.com/questions/2970314/a-beginners-guide-to-learning-javascript
+- http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
+- http://eloquentjavascript.net/
