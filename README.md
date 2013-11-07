@@ -12,8 +12,9 @@ http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 My efforst are realeased under the same license:
 [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/)
-i.e. you are welcome to read this for *free*, and make corrections,
-but don't try passing it off as your own work or selling it to others. 
+i.e. you are welcome to read this for *free*, and make corrections, 
+and share it with anyone provided you attibute the source.
+(mostly to avoid fragmentation and duplication of effort!)
 
 - - -
 Learning JavaScript is no longer *optional* for people that want to build
@@ -164,9 +165,11 @@ but for people *without* CS Degrees it uses *way*
 
 
 
-A few of Douglas Crockford's *best* videos:
+A few of Douglas **Crockford**'s *best* videos:
 - JavaScript: Your New Overload: http://youtu.be/Trurfqh_6fQ
 - JavaScript: Really. JavaScript: http://youtu.be/lTWGoL1N-Kc
+
+
 
 
 ### Basic Data Types
@@ -200,9 +203,43 @@ Paul Irish (Google): http://youtu.be/bqfoYaKCYUI
 
 Good video by Lea Verou: http://youtu.be/EkluES9Rvak
 
+- - -
+
+## Research
+
+### Existing Online Learning Tools
+
+#### Try Ruby > Code School
+
+The original TryRuby online tutorials (available at:
+http://tryruby.org/levels/1/challenges/0 ) are *superb*!
+If I was to chose an online code learing series TryRuby.org would be it!
+
+From the same team: https://www.codeschool.com/paths/javascript
+
+Naturally I signed up to codeschool and completed **all** the JS tutorials.
+
+
+#### Scripty Books = Interactive Tutorials (*Paid*)
+
+This past year I have spent a great deal of time learning Front-end 
+([MVC/MVVM](http://stackoverflow.com/questions/667781/what-is-the-difference-between-mvc-and-mvvm))
+frameworks (e.g: Angluar, Ember, Knockout and Backbone) 
+while learning Backbone.js I cam across: ScriptyBooks:
+http://www.scriptybooks.com/books/backbone-coffeescript/chapters/quick-tour
+*paid* the $18 and did the interactive tutorials.
+As good as the Scripty system is I found it lacking in a few key areas:
+
+
+
+
+
+
 ## References / Bibliography
 
 - Best Way to Learn JS: http://net.tutsplus.com/tutorials/javascript-ajax/the-best-way-to-learn-javascript/
-- http://stackoverflow.com/questions/2970314/a-beginners-guide-to-learning-javascript
-- http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
-- http://eloquentjavascript.net/
+- Beginners Guide: http://stackoverflow.com/questions/2970314/a-beginners-guide-to-learning-javascript
+- Best Resources: http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
+- Eloquent JS: http://eloquentjavascript.net/
+- CodeAcademy: http://www.codecademy.com/tracks/javascript
+- CodeSchool: https://www.codeschool.com/paths/javascript
