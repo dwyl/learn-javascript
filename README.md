@@ -159,7 +159,7 @@ While Crockford is an *authority* on JS he makes no
 attempt to teach *beginners*. This is a tragegy which I intend to remedy.
 
 Watch Crockford's Intro to JS: http://youtu.be/v2ifWcnQs6M
-its a *fantastic* video if you already have programming *experience*,
+its a *fantastic* video if you *already* have programming *experience*,
 but for people *without* CS Degrees it uses *way* 
 **too many technical terms**.
 
@@ -173,6 +173,20 @@ A few of Douglas **Crockford**'s *best* videos:
 
 
 ### Basic Data Types
+
+Boolean
+
+Strings
+
+Numbers
+
+Arrays
+
+Objects
+
+Null
+
+
 
 
 ### Reserved Words
@@ -198,6 +212,7 @@ Variables and Functions/Methods Cannot be any of these **Reserved Words**:
 
 #### Read More
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Reserved_Words
+- http://en.wikibooks.org/wiki/JavaScript/Reserved_Words
 - http://stackoverflow.com/questions/26255/reserved-keywords-in-javascript
 
 ### Functions
