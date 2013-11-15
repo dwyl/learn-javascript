@@ -194,7 +194,8 @@ it the *value* of "**green**". Later we can use this variable in a
 ##### Read more: 
 - What is a ***Variable***: http://en.wikipedia.org/wiki/Variable_(computer_science)
 - JavaScript **var**: http://stackoverflow.com/questions/2485423/javascript-is-using-var-to-declare-variables-optional
-- JavaScript **console**: http://stackoverflow.com/questions/4539253/what-is-console-log
+- JavaScript **console.log**: http://stackoverflow.com/questions/4539253/what-is-console-log 
++ http://stackoverflow.com/questions/4743730/what-is-console-log-and-how-do-i-use-it
 
 
 #### Boolean
@@ -202,15 +203,16 @@ it the *value* of "**green**". Later we can use this variable in a
 A boolean value can either be **true** or **false**. 
 
 ```javascript
+/*jslint browser: true, devel: true */
 var asleep = true; // notice there are no quotation marks for true/false
 
-if(asleep) {
-	console.log("I'm very tired, please do not wake me!");
+if (asleep) {
+    console.log("I'm very tired, please do not wake me!");
 } else {
-	console.log("Wide awake, lets write some code!");
+    console.log("Wide awake, lets write some code!");
 }
 ```
-Try: http://repl.it/M3H
+Try: http://repl.it/M3K
 
 An example of how/where we use a boolean value in "real" code:
 
