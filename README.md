@@ -174,7 +174,36 @@ A few of Douglas **Crockford**'s *best* videos:
 
 ### Basic Data Types
 
-Boolean
+#### Variables
+
+![Storage](http://i.imgur.com/NOytTum.jpg "Storage")
+
+Variables let us temporarily **store information** so we can access 
+("retrieve") it later. We create a variable using the **var** keyword:
+
+```javascript
+var favoriteColor = "green";
+console.log("My Favorite Color is: "+favoriteColor);
+```
+Try: http://repl.it/M3D
+
+Here we are creating a *variable* called **favoriteColor** and *assign*
+it the *value* of "**green**". Later we can use this variable in a 
+**console.log()** to dispaly a message on the JavaScript console.
+
+Read more: 
+- http://en.wikipedia.org/wiki/Variable_(computer_science)
+- http://stackoverflow.com/questions/2485423/javascript-is-using-var-to-declare-variables-optional
+- http://stackoverflow.com/questions/4743730/what-is-console-log-and-how-do-i-use-it
+
+
+#### Boolean
+
+A boolean value can either be **true** or **false**. 
+
+```javascript
+
+```
 
 Strings
 
