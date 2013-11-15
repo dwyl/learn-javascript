@@ -182,7 +182,7 @@ Variables let us temporarily **store information** so we can access
 ("retrieve") it later. We create a variable using the **var** keyword:
 
 ```javascript
-var favoriteColor = "green";
+var favoriteColor = "green";  // quotation marks indicate this is a "String"
 console.log("My Favorite Color is: "+favoriteColor);
 ```
 Try: http://repl.it/M3D
@@ -191,10 +191,10 @@ Here we are creating a *variable* called **favoriteColor** and *assign*
 it the *value* of "**green**". Later we can use this variable in a 
 **console.log()** to dispaly a message on the JavaScript console.
 
-Read more: 
-- http://en.wikipedia.org/wiki/Variable_(computer_science)
-- http://stackoverflow.com/questions/2485423/javascript-is-using-var-to-declare-variables-optional
-- http://stackoverflow.com/questions/4743730/what-is-console-log-and-how-do-i-use-it
+##### Read more: 
+- What is a ***Variable***: http://en.wikipedia.org/wiki/Variable_(computer_science)
+- JavaScript **var**: http://stackoverflow.com/questions/2485423/javascript-is-using-var-to-declare-variables-optional
+- JavaScript **console**: http://stackoverflow.com/questions/4539253/what-is-console-log
 
 
 #### Boolean
@@ -202,8 +202,28 @@ Read more:
 A boolean value can either be **true** or **false**. 
 
 ```javascript
+var asleep = true; // notice there are no quotation marks for true/false
 
+if(asleep) {
+	console.log("I'm very tired, please do not wake me!");
+} else {
+	console.log("Wide awake, lets write some code!");
+}
 ```
+Try: http://repl.it/M3H
+
+An example of how/where we use a boolean value in "real" code:
+
+```javascript
+var connected = true;   // if our user is connected to the internet
+
+if(connected) {
+	sendDataToServer(); // Send data to server for processing/saving/sharing
+} else {
+	saveDataLocally();  // Keep data on local machine
+}
+```
+
 
 Strings
 
