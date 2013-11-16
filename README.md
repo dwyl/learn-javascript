@@ -247,6 +247,7 @@ two values and confirm if a variable is truthy or falsey.
 ##### Read More
 - Boolean Data Type: http://en.wikipedia.org/wiki/Boolean_data_type
 - Truthy vs Fasly: http://docs.nodejitsu.com/articles/javascript-conventions/what-are-truthy-and-falsy-values
+- 
 
 
 #### Strings
@@ -269,6 +270,8 @@ experienced JS developers because they are easily confused with apostrphe or
 backticks. see: http://www.cs.sfu.ca/~ggbaker/reference/characters/
 
 #### Numbers
+
+
 
 #### Arrays
 
@@ -373,3 +376,5 @@ As good as the Scripty system is I found it lacking in a few key areas:
 - Eloquent JS: http://eloquentjavascript.net/
 - CodeAcademy: http://www.codecademy.com/tracks/javascript
 - CodeSchool: https://www.codeschool.com/paths/javascript
+- JavaScript Peculiarities: http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-
+- NodeJitsu has a few good JS articles: http://docs.nodejitsu.com/articles/javascript-conventions/
