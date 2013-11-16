@@ -227,9 +227,15 @@ if(connected === true) {
 }
 ```
 
-**Note**: In JavaScript, the empty string (""), **null**, **undefined**, 
-**NaN** (which means Not-a-Number!), 
-**+0** / **−0** (Zero) and **false** are called "***falsy***".
+##### Truthy & Falsy ... What?!
+
+In JavaScript the following values are described as ***falsy***:
+- **false**
+- empty string ("")
+- **null**
+- **undefined**
+- **NaN** (which means Not-a-Number!)
+- **+0** & **−0** (Zero)
 
 By contrast *everything else* is considered "***truthy***".
 If in doubt use the tripple-equals comparison **===** sign to compare
