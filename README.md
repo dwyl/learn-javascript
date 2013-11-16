@@ -201,6 +201,8 @@ it the *value* of "**green**". Later we can use this variable in a
 
 #### Boolean
 
+![True or False](http://i.imgur.com/MZqkRuO.jpg "True or False")
+
 A boolean value can either be **true** or **false**. 
 
 ```javascript
