@@ -246,8 +246,9 @@ two values and confirm if a variable is truthy or falsey.
 
 ##### Read More
 - Boolean Data Type: http://en.wikipedia.org/wiki/Boolean_data_type
-- Truthy vs Fasly: http://docs.nodejitsu.com/articles/javascript-conventions/what-are-truthy-and-falsy-values
-- 
+- Truthy vs Fasly (with examples): 
+http://docs.nodejitsu.com/articles/javascript-conventions/what-are-truthy-and-falsy-values
+- *Sitepoint* truthy/falsy article: http://www.sitepoint.com/javascript-truthy-falsy/
 
 
 #### Strings
