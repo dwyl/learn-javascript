@@ -170,6 +170,7 @@ A few of Douglas **Crockford**'s *best* videos:
 - JavaScript: Really. JavaScript: http://youtu.be/lTWGoL1N-Kc
 
 
+### Nothing to "Install" or "Configure"
 
 
 ### Basic Data Types
@@ -178,7 +179,7 @@ A few of Douglas **Crockford**'s *best* videos:
 
 ![Storage](http://i.imgur.com/NOytTum.jpg "Storage")
 
-Variables let us temporarily **store information** so we can access 
+Variables let us (*temporarily*) **store information** so we can access 
 ("retrieve") it later. We create a variable using the **var** keyword:
 
 ```javascript
@@ -226,18 +227,34 @@ if(connected) {
 }
 ```
 
+#### Strings
 
-Strings
+Strings are text (characters *stringed* together). 
+In javascript we use double-quotes when creating ("*declaring*") a string.
 
-Numbers
+```javascript
+var myString = "Any text inside quotes is a string we can re-use later!";
+console.log(myString); // simply displays the myString on the JS console
+```
+Try: http://repl.it/M4E
 
-Arrays
+##### Read more: 
+- More about ***Strings** than you will *ever* need to know: 
+http://en.wikipedia.org/wiki/String_(computer_science)
 
-Objects
+- Using single quote character ' for strings is frowned upon by 
+experienced JS developers because they are easily confused with apostrphe or
+backticks. see: http://www.cs.sfu.ca/~ggbaker/reference/characters/
 
-Null
+#### Numbers
 
+#### Arrays
 
+#### Objects
+
+#### Null
+
+#### Undefined
 
 
 ### Reserved Words
