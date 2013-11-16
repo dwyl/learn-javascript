@@ -192,7 +192,7 @@ Here we are creating a *variable* called **favoriteColor** and *assign*
 it the *value* of "**green**". Later we can use this variable in a 
 **console.log()** to dispaly a message on the JavaScript console.
 
-##### Read more: 
+##### Read More
 - What is a ***Variable***: http://en.wikipedia.org/wiki/Variable_(computer_science)
 - JavaScript **var**: http://stackoverflow.com/questions/2485423/javascript-is-using-var-to-declare-variables-optional
 - JavaScript **console.log**: http://stackoverflow.com/questions/4539253/what-is-console-log 
@@ -207,7 +207,7 @@ A boolean value can either be **true** or **false**.
 /*jslint browser: true, devel: true */
 var asleep = true; // notice there are no quotation marks for true/false
 
-if (asleep) {
+if (asleep === true) {
     console.log("I'm very tired, please do not wake me!");
 } else {
     console.log("Wide awake, lets write some code!");
@@ -220,12 +220,26 @@ An example of how/where we use a boolean value in "real" code:
 ```javascript
 var connected = true;   // if our user is connected to the internet
 
-if(connected) {
+if(connected === true) {
 	sendDataToServer(); // Send data to server for processing/saving/sharing
 } else {
 	saveDataLocally();  // Keep data on local machine
 }
 ```
+
+**Note**: In JavaScript, the empty string (""), **null**, **undefined**, 
+**NaN** (which means Not-a-Number!), 
+**+0** / **−0** (Zero) and **false** are called "***falsy***".
+
+By contrast *everything else* is considered "***truthy***".
+If in doubt use the tripple-equals comparison **===** sign to compare
+two values and confirm if a variable is truthy or falsey. 
+
+
+##### Read More
+- Boolean Data Type: http://en.wikipedia.org/wiki/Boolean_data_type
+- Truthy vs Fasly: http://docs.nodejitsu.com/articles/javascript-conventions/what-are-truthy-and-falsy-values
+
 
 #### Strings
 
@@ -238,7 +252,7 @@ console.log(myString); // simply displays the myString on the JS console
 ```
 Try: http://repl.it/M4E
 
-##### Read more: 
+##### Read More
 - More about ***Strings** than you will *ever* need to know: 
 http://en.wikipedia.org/wiki/String_(computer_science)
 
