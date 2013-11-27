@@ -192,6 +192,10 @@ Here we are creating a *variable* called **favoriteColor** and *assign*
 it the *value* of "**green**". Later we can use this variable in a 
 **console.log()** to dispaly a message on the JavaScript console.
 
+##### What Should I *Call* My Variable?
+
+The general rule with variable names is: descriptive
+
 ##### Read More
 - What is a ***Variable***: http://en.wikipedia.org/wiki/Variable_(computer_science)
 - JavaScript **var**: http://stackoverflow.com/questions/2485423/javascript-is-using-var-to-declare-variables-optional
@@ -311,6 +315,8 @@ Variables and Functions/Methods Cannot be any of these **Reserved Words**:
 
 ### Functions
 
+
+
 ### Test *First* Development
 
 One of my biggest gripes with *all* the "Beginners" JavaScript Books I've read
@@ -379,3 +385,6 @@ As good as the Scripty system is I found it lacking in a few key areas:
 - CodeSchool: https://www.codeschool.com/paths/javascript
 - JavaScript Peculiarities: http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-
 - NodeJitsu has a few good JS articles: http://docs.nodejitsu.com/articles/javascript-conventions/
+- Why Would I use Node.js? http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+- Mozilla JavaScript Resources: http://www.elijahmanor.com/2012/09/control-complexity-of-your-javascript.html
+- Douglas Crockford Code Conventions: http://javascript.crockford.com/code.html
