@@ -160,10 +160,8 @@ attempt to teach *beginners*. This is a tragegy which I intend to remedy.
 
 Watch Crockford's Intro to JS: http://youtu.be/v2ifWcnQs6M
 its a *fantastic* video if you *already* have programming *experience*,
-but for people *without* CS Degrees it uses *way* 
+but for people *without* a CS Degree it uses *way* 
 **too many technical terms**.
-
-
 
 A few of Douglas **Crockford**'s *best* videos:
 - JavaScript: Your New Overload: http://youtu.be/Trurfqh_6fQ
@@ -171,6 +169,8 @@ A few of Douglas **Crockford**'s *best* videos:
 
 
 ### Nothing to "Install" or "Configure"
+
+One of the most compelling features of JavaScript is that it runs in browsers!
 
 
 ### Basic Data Types
@@ -276,6 +276,24 @@ backticks. see: http://www.cs.sfu.ca/~ggbaker/reference/characters/
 
 #### Numbers
 
+JavaScript only has one type of number. 1 and 1.0 are considered equal.
+
+```javascript
+var a = 1,
+    b = 1.0;
+console.log(a === b); // true
+```
+Try: http://repl.it/MrW
+
+Numbers allow us to do Maths!
+
+```javascript
+var a = 1,
+    b = 2,
+    c = a + b;
+console.log(c); // 3
+```
+Try: http://repl.it/MrY
 
 
 #### Arrays
