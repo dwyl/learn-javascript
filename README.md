@@ -285,7 +285,7 @@ console.log(a === b); // true
 ```
 Try: http://repl.it/MrW
 
-Numbers allow us to do Maths!
+Numbers allow us to do Math!
 
 ```javascript
 var a = 1,
@@ -295,8 +295,32 @@ console.log(c); // 3
 ```
 Try: http://repl.it/MrY
 
+We will dive into the **Math** library later on.
+If you can't wait, read:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 
 #### Arrays
+
+Arrays allow us to create a *list* of items.
+We create a new array using the *square brackets* **[ ]**
+e.g:
+```javascript
+var myArray = []
+console.log("My Array has "+myArray.length +" items in it!");
+```
+Try: http://repl.it/Mr0
+
+Somewhat confusingly (though you will soon get used to it) arrays are 
+[*zero-indexed*]() this means that to access the *first* item
+in an array we use `myArray[0]`
+
+e.g:
+
+```javascript
+var weekDays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+console.log(weekDays[0] +" is the first weekday!"); // Monday is the first weekday!
+```
+Try: http://repl.it/Mr1
 
 #### Objects
 
