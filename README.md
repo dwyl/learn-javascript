@@ -322,6 +322,8 @@ console.log(weekDays[0] +" is the first weekday!"); // Monday is the first weekd
 ```
 Try: http://repl.it/Mr1
 
+There are many **built-in methods** we can use with arrays. 
+
 #### Objects
 
 #### Null
@@ -431,3 +433,18 @@ As good as the Scripty system is I found it lacking in a few key areas:
 - Why Would I use Node.js? http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 - Mozilla JavaScript Resources: http://www.elijahmanor.com/2012/09/control-complexity-of-your-javascript.html
 - Douglas Crockford Code Conventions: http://javascript.crockford.com/code.html
+
+
+## Unrelated but Interesting
+
+- Anton Kovalyov explains why he forked JSLint (to create JSHint): 
+http://anton.kovalyov.net/p/why-jshint/
+- Stack discussion of JSHint vs JSLint: 
+http://stackoverflow.com/questions/6803305/should-i-use-jslint-or-jshint-javascript-validation
+- Presentation on JavaScript Automation: http://kjbekkelund.github.io/presentations/js-build/#1
+- Carl's QUnit + Sinon post:
+http://www.unboxedconsulting.com/blog/making-javascript-testing-in-the-browser-not-suck-with-sinon-js-part-1
+
+> @todo: add to Maintainable JS: http://net.tutsplus.com/tutorials/javascript-ajax/principles-of-maintainable-javascript/ <br />
+> @todo categorize: - JS Build tools: http://blog.millermedeiros.com/node-js-ant-grunt-and-other-build-tools/ <br />
+> JSHint: http://www.elijahmanor.com/2012/09/control-complexity-of-your-javascript.html <br />
