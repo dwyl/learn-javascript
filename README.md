@@ -194,7 +194,7 @@ it the *value* of "**green**". Later we can use this variable in a
 
 ##### What Should I *Call* My Variable?
 
-The general rule with variable names is: descriptive
+The general rule with variable names is: be descriptive and consistent.
 
 ##### Read More
 - What is a ***Variable***: http://en.wikipedia.org/wiki/Variable_(computer_science)
