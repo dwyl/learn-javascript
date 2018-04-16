@@ -1,5 +1,8 @@
 learn-javascript
 ================
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+
 
 This post (book?) is a work-in-progess (labour of love) which I have been 
 planning for 5 years and have notes for in various paper/online notebooks.
@@ -122,6 +125,17 @@ You're feeling pretty *confident* in your JS skills you want to take it to
 http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/
 
 ![Secrets of the JavaScript Ninja](http://it-ebooks.info/images/ebooks/5/secrets_of_the_javascript_ninja.jpg "Secrets of the JavaScript Ninja")
+</br></br>
+
+<b><h3>Eloquent Javascript</h3></b></br>
+<ul type="disc">
+<li>It's for the beginners of javascript.</li>
+</ul>
+https://www.amazon.in/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593272820
+<a href="https://www.amazon.in/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593272820">
+<img src="https://eloquentjavascript.net/img/cover.jpg" title="eloquent javascript" style="width:200px; height=200px"></img></a>
+</br>
+
 
 **3303 pages**. If you read a page every 2 minutes 
 (bear in mind that this is *code* you need to *understand* because 
