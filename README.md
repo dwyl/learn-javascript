@@ -264,8 +264,7 @@ two values and confirm if a variable is truthy or falsey.
 
 ##### Read More
 - Boolean Data Type: http://en.wikipedia.org/wiki/Boolean_data_type
-- Truthy vs Fasly (with examples): 
-http://docs.nodejitsu.com/articles/javascript-conventions/what-are-truthy-and-falsy-values
+- Truthy vs Fasly (with examples): https://medium.com/jspoint/truthy-vs-falsy-values-in-javascript-b9d9ada08bae
 - *Sitepoint* truthy/falsy article: http://www.sitepoint.com/javascript-truthy-falsy/
 
 
@@ -443,7 +442,7 @@ As good as the Scripty system is I found it lacking in a few key areas:
 - CodeAcademy: http://www.codecademy.com/tracks/javascript
 - CodeSchool: https://www.codeschool.com/paths/javascript
 - JavaScript Peculiarities: http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-
-- NodeJitsu has a few good JS articles: http://docs.nodejitsu.com/articles/javascript-conventions/
+- w3schools: https://www.w3schools.com/js/js_conventions.asp
 - Why Would I use Node.js? http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 - Mozilla JavaScript Resources: http://www.elijahmanor.com/2012/09/control-complexity-of-your-javascript.html
 - Douglas Crockford Code Conventions: http://javascript.crockford.com/code.html
