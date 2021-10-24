@@ -441,7 +441,7 @@ As good as the Scripty system is I found it lacking in a few key areas:
 - Eloquent JS: http://eloquentjavascript.net/
 - CodeAcademy: http://www.codecademy.com/tracks/javascript
 - CodeSchool: https://www.codeschool.com/paths/javascript
-- JavaScript Peculiarities: http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-
+- JavaScript Peculiarities: http://codylindley.com/techpro/2013_11_11__21-javascript-parts-i-struggle/
 - w3schools: https://www.w3schools.com/js/js_conventions.asp
 - Why Would I use Node.js? http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 - Mozilla JavaScript Resources: http://www.elijahmanor.com/2012/09/control-complexity-of-your-javascript.html
