@@ -33,8 +33,6 @@ To a non-programmer it might look like I *bluffed* my way into getting paid
 to write code, but that could not be *further* from the truth. 
 With enough dedication, coding is something *anyone* can learn.
 
-![Temp Start Image](http://albertaskeleton.ca/drupal/sites/default/files/page_images/start_0.jpg "Temporary Start Image")
-
 # Where do I Start?!
 
 ## Option 1
